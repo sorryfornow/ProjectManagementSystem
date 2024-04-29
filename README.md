@@ -1,7 +1,7 @@
 # ProjectManagementSystem
 
 
-# Project Title: Web Platform for Connecting Professionals with Projects
+## Project Title: Web Platform for Connecting Professionals with Projects
 
 ## Project Clients
 - Dr. Basem Suleiman, School of Computer Science and Engineering UNSW
