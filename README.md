@@ -2,6 +2,7 @@
 
 
 ## Project Title: Web Platform for Connecting Professionals with Projects
+![8901714361411_ pic](https://github.com/sorryfornow/ProjectManagementSystem/assets/54968771/57e68efd-4894-48d7-b403-5ba28ae11efe)
 
 ## Project Clients
 - Dr. Basem Suleiman, School of Computer Science and Engineering UNSW
