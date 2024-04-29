@@ -1,0 +1,7 @@
+/entity/__pycache__
+/crud/__pycache__
+.DS_Store
+/templates
+__pycache__
+.ini
+/.idea

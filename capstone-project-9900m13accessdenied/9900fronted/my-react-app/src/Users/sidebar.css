@@ -1,0 +1,21 @@
+.sidebar {
+    border: 1px solid rgb(53,57,63);
+    border-right: 3px solid #4b6cb7;
+    box-shadow: inset -1px 0px 10px -5px #000;
+    position: fixed;
+    height: 100%;
+    width: 226px;
+    top: 70px;
+    left: 0;
+    bottom: 0;
+    background: #fff;
+    color: #182848;
+    transition: background-color 0.3s; /* Smooth transition for background color */
+  }
+  
+  .sidebar:hover {
+    background-color: #f0f0f0;
+    background-image: url("https://images.pexels.com/photos/2341290/pexels-photo-2341290.jpeg?auto=compress&cs=tinysrgb&w=800"); /* Update this path */
+  
+  }
+  

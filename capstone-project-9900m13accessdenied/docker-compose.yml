@@ -1,0 +1,13 @@
+ version: "3.7"
+ services:  
+    mongodb:
+        container_name: mongodb
+        image: mongo
+        environment: 
+          MONGO_INITDB_ROOT_USERNAME: yuweil
+          MONGO_INITDB_ROOT_PASSWORD: yuwei878
+          MONGO_INITDB_DATABASE: access_denied
+        volumes:
+          - ./mongo_init.js:/docker-entrypoint-initdb.d/mongo_init.js:ro
+        ports:
+          - "27017:27017"
