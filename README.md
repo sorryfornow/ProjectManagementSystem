@@ -14,7 +14,7 @@
 ## Background
 The goal of this project is to design and develop a Web platform that connects companies offering projects with potentially interested individuals who are willing to carry on project work.
 
-## Requirements and Scope
+## Scope
 Companies may create and choose to share projects with the public. Interested individuals (professionals) can search and request to join projects. The web application is responsive and accessible on mobile devices. The following are the core requirements that should be designed and implemented by the end of this project.
 
 ### Users
